@@ -1,5 +1,6 @@
 Hello 
 git bais
+<<<<<<< HEAD
 rg
 sgs
 gsg
@@ -10,3 +11,6 @@ s
 sdg
 sdg
 sdg
+=======
+
+>>>>>>> parent of 460b6a2 (Updating the file)
