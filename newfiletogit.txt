@@ -1,10 +1,13 @@
 Hello 
 git bais
 <<<<<<< HEAD
+<<<<<<< HEAD
 rg
 sgs
 gsg
 gsg
 
 
+=======
+>>>>>>> parent of 460b6a2 (Updating the file)
 
